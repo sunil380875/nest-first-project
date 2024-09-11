@@ -76,7 +76,7 @@ Nest is [MIT licensed](LICENSE).
 
 nest g module user //create a new module inside src/user => user.module.ts
 
-nest g controller users //create two file in side user user.controller.ts and user.controller.spec.ts spec is a test files
+nest g controller user //create two file in side user user.controller.ts and user.controller.spec.ts spec is a test files
 
 nest g service user
 
